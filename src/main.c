@@ -202,8 +202,6 @@ int main(int cgc_argc, char *cgc_argv[])
     cgc_makeMove(temp);
   }
 
-  ((int (*)())0)();
-
   cgc_transmit_all(1, "You Win\n", 8);
 }
 
