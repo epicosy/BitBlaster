@@ -1,4 +1,4 @@
-YAN01_00010:
+YAN01_00010_1:
   cwd: "/usr/local/share/pyshared/cgc"
   script: "python2 /usr/local/share/pyshared/cgc/cb-test.py"
   path: "/usr/local/share/povs/BitBlaster"
